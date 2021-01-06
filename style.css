@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+
+}
+h1{
+    font-size: 70px;
+}
+.name-highlight{
+    color: #363958;
+}
+.name-color{
+    color: rgb(245, 112, 112)
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
